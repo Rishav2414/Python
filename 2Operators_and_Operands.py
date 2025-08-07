@@ -18,7 +18,7 @@ print(100/200) #by divide two integer here always we get floating point as a res
 
 print(100//200) # use extra'/' print: 0
 
-# 6. Modular Operator
+# 6. Modular Operator(remendir operator: gives reminder)
 print(100%200) # print: 100
 
 # 6. Exponential Operator: This operator raises the left operand (base) to the power of the right operand (exponent)
